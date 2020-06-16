@@ -24,9 +24,5 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto:
 
-A proposta é da Semana Omnistack 11.0 que sugere passar conhecimento sobre Node.JS, React.JS, React Native e o Expo. O projeto propõe ajudar as ONG’s(Organizações não governamentais) a divulgar seus casos e encontrar uma pessoa que ajude financeiramente o caso proposto. 
-
-### :mortar_board: Quem foi o tutor?
-[Diego Fernandes](https://github.com/diego3g) ministrou a Semana Omnistack 11.0
-
+O projeto ajuda ONG’s a divulgar seus casos e encontrar pessoas que ajudem com contribuições monetárias.
 
